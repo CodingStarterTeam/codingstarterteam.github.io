@@ -4,7 +4,7 @@ codingstarterteam.github.io
 How to access it?
 -----------------
 
-Click the [link](codingstarterteam.github.io) to access it easily. The way to
+Click the [link](http://codingstarterteam.github.io) to access it easily. The way to
 change the content is at the sub-part `How to edit GitHub Pages`.
 
 How to edit GitHub Pages
